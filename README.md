@@ -6,7 +6,6 @@ Fork the Repo and add details as described in the activity challenge:
 
 
 |No  |GitHub User  |Repository  |About  |
-|64|Ummu6|My first Repo|---------|
 |1     |    ChrisAchinga    |     [ChrisAchinga](https://github.com/ChrisAchinga/ChrisAchinga)    |    Not a robot     |
 |2    |    FamousBern     |     [FamousBern](https://github.com/FamousBern/FamousBern.git)    |    software developer/SysAdmin     |
 |3    |    polycarpetyang     |     [polycarpetyang](https://github.com/polycarpetyang/polycarpetyang.git)    |    code saved me. I develop Webs    |
@@ -61,4 +60,4 @@ Fork the Repo and add details as described in the activity challenge:
 |41 |    Pelusharaz   |    [Pelusharaz](https://github.com/Pelusharaz/Pelusharaz)    |    Upcoming software engineer  |
 |42 | Davidkioko      |    [https://github.com/Davidkioko/Davidkioko]  | A Friend |
 |43|    hannah-544     |https://github.com/hannah-544/hannah-544 |Intermediate Python programmer   |
-
+|44| Ummu6 | https://github.com/Ummu6/MyFirstRepo.git  | Student |  
